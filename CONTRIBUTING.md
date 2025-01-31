@@ -14,42 +14,6 @@ apm welcomes your suggestions and contributions! Before opening your first issue
 
 * If you don't have the time or knowledge to fix the problem yourself, you can still make it move along faster by providing an accurate description or a repo that reproduces the issue.
 
-## Bug Reports
-
-A bug is a _demonstrable problem_ that is caused by the code in the repository. Good bug reports are extremely helpful - thank you!
-
-Guidelines for bug reports:
-
-1. **Use the GitHub issue search** &mdash; check if the issue has already been reported.
-
-2. **Check if the issue has been fixed** &mdash; try to reproduce it using the latest version or development branch in the repository.
-
-3. **Demonstrate the problem** &mdash; provide clear steps that can be reproduced.
-
-A good bug report should not leave others needing to chase you up for more information. Please try to be as detailed as possible in your report. What is your environment? What steps will reproduce the issue? What would you expect to be the outcome? All these details will help to fix any potential bugs.
-
-## Development Guidelines
-
-### Compatibility
-
-apm is targeted for SAP Basis 7.50 and higher, so the code should only contain expressions and statements that work on 7.50. abaplint will automatically check every pull request for language syntax that is not available on these releases.
-
-### Linting
-
-Pull requests are checked using [abaplint](https://abaplint.org) and must pass all configured [checks](../../abaplint.json) before they can be merged.
-
-### Pretty Printer
-
-Use pretty printer, keywords upper case + indentation. 
-
-### Prefixing
-
-apm does *not* use prefixing (hungarian notation) of variable names.
-
-### Internationalization (I18N)
-
-Currently, apm supports only the English language. Neither objects nor text literals are translated. Therefore, all objects shall be set to English as the original language. Text literals in the code shall be maintained in English. 
-
 ## Contribution Licensing
 
 Most of our code is distributed under the terms of the [license](LICENSE), and when you contribute code that you wrote to our repositories, you agree that you are contributing under those same terms. In addition, by submitting your contributions you are indicating that you have the right to submit those contributions under those terms.
