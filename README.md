@@ -45,13 +45,10 @@ A list of solutions that support the ABAP programming language typically with sy
 
 ## Contributions
 
-Please feel free to add to and share this list.
-
-## Contributions
-
-All contributions are welcome! Just fork this repo and create a pull request. 
+All contributions are welcome! Read our [Contribution Guidelines](https://github.com/abapPM/ABAP-Language-Syntax/blob/main/CONTRIBUTING.md), fork this repo, and create a pull request.
 
 ## About
 
-<p>Follow <a href="https://twitter.com/marcfbe">@marcfbe</a> on Twitter</p>
-<p><a href="https://marcbernardtools.com/"><img width="160" height="65" src="https://marcbernardtools.com/info/MBT_Logo_640x250_on_Gray.png" alt="MBT Logo"></a></p>
+Made with ❤ in Canada
+
+Follow [@marcf.be](https://bsky.app/profile/marcf.be) on Blueksy and [@marcfbe](https://linkedin.com/in/marcfbe) or LinkedIn
