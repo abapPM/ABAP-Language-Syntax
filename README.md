@@ -51,4 +51,4 @@ All contributions are welcome! Read our [Contribution Guidelines](https://github
 
 Made with ❤ in Canada
 
-Follow [@marcf.be](https://bsky.app/profile/marcf.be) on Blueksy and [@marcfbe](https://linkedin.com/in/marcfbe) or LinkedIn
+Follow [@marcf.be](https://bsky.app/profile/marcf.be) on Bluesky and [@marcfbe](https://linkedin.com/in/marcfbe) or LinkedIn
